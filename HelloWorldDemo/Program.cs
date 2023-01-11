@@ -11,7 +11,8 @@ namespace HelloWorldDemo
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome Hello World");
-            Console.WriteLine("Good Morning");
+            Console.WriteLine("Making changes in remote branch");
+            Console.WriteLine("Creating conflict from remote changes");
             Console.ReadLine();
         }
     }
